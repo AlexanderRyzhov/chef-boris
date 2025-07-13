@@ -1,0 +1,23 @@
+{
+  "name": "chef-boris",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderRyzhov/chef-boris.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexanderRyzhov/chef-boris/issues"
+  },
+  "homepage": "https://github.com/AlexanderRyzhov/chef-boris#readme",
+  "description": "",
+  "dependencies": {
+    "@ai-sdk/openai": "^1.3.23",
+    "@mastra/core": "^0.10.12"
+  }
+}
